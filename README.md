@@ -1,5 +1,5 @@
 # Nth
-Gary's planet
+Gary's toy planet
 
 <pre>
      R         R     
